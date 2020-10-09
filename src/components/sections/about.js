@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
+  const skills = ['HTML & CSS', 'Bootstrap', 'Node.js', 'PHP', 'ReactJS', 'WordPress', 'Laravel'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,7 +141,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
+            <p>Hello! I'm Jerome! A web developer and designer from Concepcion, Tarlac PH!</p>
 
             <p>
               I enjoy creating things that live on the internet, whether that be websites,
@@ -150,10 +150,11 @@ const About = () => {
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              I've graduated from AMA Computer College Tarlac as a Bachelor of Science
+              with a degree in Information Technology in 2015 and had various work after graduating there. 
+              I've just recently settled with web development and found out that it really is my 
+              passion in life. 
+              
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
