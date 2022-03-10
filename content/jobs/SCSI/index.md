@@ -3,7 +3,7 @@ date: '2018-03-05'
 title: 'Web Developer'
 company: 'SCSI'
 location: 'Victoria, AU'
-range: 'Mar 2018 - Present'
+range: 'Mar 2018 - Oct 2020'
 url: 'https://scsi.com.au/'
 ---
 
