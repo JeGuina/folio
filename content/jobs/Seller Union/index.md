@@ -1,8 +1,8 @@
 ---
 date: '2020-10-19'
-title: 'Web Developer / Webmaster'
+title: 'Web Developer / Webmaster (Part Time)'
 company: 'Seller Union'
-location: 'Virtual Assistant'
+location: 'VA (Slovakia, UK)'
 range: 'Oct 2020 - July 2023'
 url: 'https://seller-union.com/'
 ---
