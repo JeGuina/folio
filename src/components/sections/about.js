@@ -120,7 +120,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['HTML & CSS', 'Bootstrap', 'Node.js', 'PHP', 'ReactJS', 'WordPress', 'Laravel'];
+  const skills = ['WordPress', 'PHP', 'Google AppScript', 'ReactJS', 'Rest API', 'ActiveCampaign', 'Zapier', 'SalesMessage', 'CallRail', 'Google LookerStudio', 'Google Workspace'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -139,10 +139,10 @@ const About = () => {
 
             <p>
               I've graduated from AMA Computer College Tarlac as a Bachelor of Science
-              with a degree in Information Technology in 2015 and had various work after graduating there. 
-              I've just recently settled with web development and found out that it really is my 
-              passion in life. 
-              
+              with a degree in Information Technology in 2015 and had various work after graduating there.
+              I've just recently settled with web development and found out that it really is my
+              passion in life.
+
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
