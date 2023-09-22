@@ -2,7 +2,7 @@
 date: '2020-09-25'
 title: 'Discord Bot for my Discord Server'
 github: 'https://github.com/JeGuina/katiwala'
-external: 'https://scsi.com.au'
+external: 'https://github.com/JeGuina/katiwala'
 tech:
   - discord.js
   - Node.js
