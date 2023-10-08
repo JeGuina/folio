@@ -3,7 +3,7 @@ date: '2022-07-27'
 title: 'Web Developer'
 company: 'Engage Studio'
 location: 'VA (Ontario, Canada)'
-range: 'July 2022 - Present'
+range: 'July 2022 - September 2023'
 url: 'https://engagestudio.com'
 ---
 
