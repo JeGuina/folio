@@ -120,7 +120,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['HubSpot', 'Zapier', 'WordPress', 'GoHighLevel', 'Clickfunnels', 'PHP', 'Google AppScript', 'ReactJS', 'Rest API', 'ActiveCampaign' 'SalesMessage', 'CallRail', 'Google LookerStudio', 'Google Workspace'];
+  const skills = ['HubSpot', 'Zapier', 'WordPress', 'GoHighLevel', 'Clickfunnels', 'PHP', 'Google AppScript', 'ReactJS', 'Rest API', 'ActiveCampaign', 'SalesMessage', 'CallRail', 'Google LookerStudio', 'Google Workspace'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
