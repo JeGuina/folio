@@ -41,18 +41,6 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     return;
   }
 
-  // Ensure a global File constructor exists for packages like undici that expect it.
-  const { File } = require('fetch-blob');
-
-  if (typeof global.File === 'undefined') {
-    global.File = File;
-  }
-
-  // Optional: export a simple API hook so Gatsby still sees this file as a valid gatsby-node module.
-  exports.onPreInit = () => {
-    // noop - polyfill already applied above
-  };
-
   // Create post detail pages
   const posts = result.data.postsRemark.edges;
 
