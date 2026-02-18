@@ -37,6 +37,7 @@
     "babel-plugin-styled-components": "^2.0.6",
     "fetch-blob": "^4.0.0",
     "gatsby": "^5.16.1",
+    "gatsby-core-utils": "^4.16.0",
     "gatsby-plugin-google-analytics": "^5.16.0",
     "gatsby-plugin-image": "^3.16.0",
     "gatsby-plugin-manifest": "^5.16.0",
