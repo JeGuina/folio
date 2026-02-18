@@ -129,19 +129,16 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Jerome! A web developer and designer from Concepcion, Tarlac PH!</p>
+            <p>Hi, I&apos;m Jerome, a web developer and web automation specialist from Concepcion, Tarlac, Philippines</p>
 
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+              I create websites, applications, and automated workflows that are both user-friendly and high-performing.
+              I graduated with a BS in Information Technology from AMA Computer College Tarlac in 2015 and have since focused on building smart, scalable web solutions.
             </p>
 
             <p>
-              I've graduated from AMA Computer College Tarlac as a Bachelor of Science
-              with a degree in Information Technology in 2015 and had various work after graduating there.
-              I've just recently settled with web development and found out that it really is my
-              passion in life.
+              I&apos;m passionate about combining design, development, and automation to simplify complex processes and deliver seamless digital experiences.
+              Constantly exploring new tools and techniques, I aim to make every project efficient, polished, and impactful.
 
             </p>
 
