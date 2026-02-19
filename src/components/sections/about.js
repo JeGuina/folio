@@ -129,7 +129,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hi, I&apos;m Jerome, a web developer and web automation specialist from Concepcion, Tarlac, Philippines</p>
+            <p>Hi, I&apos;m Jerome, a web developer and web automation specialist from Concepcion, Tarlac, Philippines.</p>
 
             <p>
               I create websites, applications, and automated workflows that are both user-friendly and high-performing.
