@@ -133,7 +133,7 @@ const About = () => {
 
             <p>
               I create websites, applications, and automated workflows that are both user-friendly and high-performing.
-              I graduated with a BS in Information Technology from AMA Computer College Tarlac in 2015 and have since focused on building smart, scalable web solutions.
+              I graduated with a BS in Information Technology from AMA Computer College Tarlac in 2013 and have since focused on building smart, scalable web solutions.
             </p>
 
             <p>
